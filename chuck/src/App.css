@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background:#edf0ee;
+}
+
+.img{
+  margin:20 50%;
+}
+
+.button{
+  margin: 20 50%;
+  margin-top: 50px;
+}
+
+button{
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: yellow;
+}
+
+button:hover{
+  cursor: pointer;
+  color: blue;
+  background-color: blue;
+  color: white;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 10vh;
+}
